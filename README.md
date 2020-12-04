@@ -8,3 +8,5 @@
 ##### 수열추리게임 안드로이드 어플리케이션
 ### 4. [N빵고고](https://play.google.com/store/apps/details?id=com.ssootube.splitthebill)
 ##### 더치페이 안드로이드 어플리케이션
+### 5. [LSTM을 이용한 청와대 청원 카테고리 분류](https://github.com/yerin85/National-Petition-Category-classification)
+##### 인천스마트시티 PSP과제
